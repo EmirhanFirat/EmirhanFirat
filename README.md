@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben Emirhan Fırat 👋
+#              Emirhan Fırat 
 
 ### 🚀 Akıllı Çözümler Geliştiriyorum
 
@@ -127,28 +127,6 @@ Temiz Kod ve Yazılım Mühendisliği
   <img src="https://img.shields.io/badge/README-Proje%20Sunumu-2563EB?style=for-the-badge"/>
 </p>
 
-KOBİ’lere yönelik kredi skorlama yaklaşımını sunmak için hazırlanmış public proje vitrini.
-
-**Proje İçeriği**
-- KOBİ kredi skorlama mantığı
-- Finansal risk değerlendirme yaklaşımı
-- Public proje sunumu
-- Finans + AI odaklı portfolyo anlatımı
-
-> Not: Asıl proje zamanla private yapılabilir. Bu repository, public tarafta proje vitrini olarak kullanılmaktadır.
-
----
-
-### 🏦 KOBIA Credit Score
-
-<p>
-  <a href="https://github.com/EmirhanFirat/kobia-Credit-Score">
-    <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-</p>
-
 KOBİ’ler için kredi skoru tahmini yapmaya odaklanan makine öğrenmesi projesi.
 
 **Proje İçeriği**
@@ -157,6 +135,9 @@ KOBİ’ler için kredi skoru tahmini yapmaya odaklanan makine öğrenmesi proje
 - Veri ön işleme
 - ML modelleme süreci
 - Notebook tabanlı deneysel geliştirme
+- Finans + AI odaklı portfolyo anlatımı
+
+> Not: Asıl proje  private yapılmıştır. Bu repository, public tarafta proje vitrini olarak kullanılmaktadır.
 
 ---
 
@@ -427,6 +408,6 @@ Aşama 5  -> Backend + AI entegre, üretime yakın akıllı uygulamalar gelişti
 
 <div align="center">
 
-### Proje geliştir. Temelleri anla. Sürekli iyileştir.
+
 
 </div>
