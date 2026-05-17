@@ -2,7 +2,6 @@
 
 #              Emirhan Fırat 
 
-### 🚀 Akıllı Çözümler Geliştiriyorum
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;AI+Engineer;Backend+Developer;LLM+%7C+RAG+%7C+LoRA+%7C+Computer+Vision;Ger%C3%A7ek+d%C3%BCnya+i%C3%A7in+AI+ve+yaz%C4%B1l%C4%B1m+projeleri+geli%C5%9Ftiriyorum" alt="Typing SVG" />
 
