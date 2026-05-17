@@ -306,41 +306,83 @@ NodeMCU, MQTT ve Blynk entegrasyonu ile geliştirilen IoT tabanlı erken uyarı 
 
 ## 📌 Repository Öne Çıkanlar
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏦 KOBİ Kredi Skoru</h3>
+      <p>KOBİ’lere yönelik kredi skorlama ve finansal risk değerlendirme projesi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Finance-Credit%20Scoring-0F172A?style=flat"/>
+        <img src="https://img.shields.io/badge/README-Project%20Showcase-2563EB?style=flat"/>
+      </p>
+      <a href="https://github.com/EmirhanFirat/Kobi_kredi_skoru">
+        <b>Projeyi Görüntüle →</b>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🤖 Türkçe Finansal Asistan</h3>
+      <p>LoRA ve RAG yaklaşımlarını karşılaştıran finansal LLM asistanı.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LLM-111827?style=flat"/>
+        <img src="https://img.shields.io/badge/RAG-2563EB?style=flat"/>
+        <img src="https://img.shields.io/badge/LoRA-7C3AED?style=flat"/>
+      </p>
+      <a href="https://github.com/EmirhanFirat/Turkce-Finansal-Asistan-LoRA-ve-RAG-Karsilastirmasi---finansal-llm-asistani---">
+        <b>Projeyi Görüntüle →</b>
+      </a>
+    </td>
+  </tr>
 
-<a href="https://github.com/EmirhanFirat/Kobi_kredi_skoru">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirhanFirat&repo=Kobi_kredi_skoru&theme=tokyonight&hide_border=true" />
-</a>
+  <tr>
+    <td width="50%">
+      <h3>🏠 Ev Fiyat Tahmini</h3>
+      <p>Regresyon tabanlı makine öğrenmesi ile ev fiyat tahmini projesi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat"/>
+      </p>
+      <a href="https://github.com/EmirhanFirat/Ev-Tahmini--makine-renmesi">
+        <b>Projeyi Görüntüle →</b>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🏀 Basketbol Top ve Oyuncu Takibi</h3>
+      <p>Basketbol sahnesinde top ve oyuncu takibi yapan bilgisayarlı görü projesi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat"/>
+        <img src="https://img.shields.io/badge/Object%20Tracking-0F172A?style=flat"/>
+      </p>
+      <a href="https://github.com/EmirhanFirat/Basketbol-top-ve-oyuncu-takip-sistemi">
+        <b>Projeyi Görüntüle →</b>
+      </a>
+    </td>
+  </tr>
 
-<a href="https://github.com/EmirhanFirat/Turkce-Finansal-Asistan-LoRA-ve-RAG-Karsilastirmasi---finansal-llm-asistani---">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirhanFirat&repo=Turkce-Finansal-Asistan-LoRA-ve-RAG-Karsilastirmasi---finansal-llm-asistani---&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/EmirhanFirat/Ev-Tahmini--makine-renmesi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirhanFirat&repo=Ev-Tahmini--makine-renmesi&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/EmirhanFirat/Basketbol-top-ve-oyuncu-takip-sistemi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirhanFirat&repo=Basketbol-top-ve-oyuncu-takip-sistemi&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/EmirhanFirat/Arac-Sayim-Ve-Trafik-Analiz-Sistemi-YOLO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirhanFirat&repo=Arac-Sayim-Ve-Trafik-Analiz-Sistemi-YOLO&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/EmirhanFirat/Spor-Salonu-Yonetim-Sistemi-Web-Proje">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmirhanFirat&repo=Spor-Salonu-Yonetim-Sistemi-Web-Proje&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+  <tr>
+    <td width="50%">
+      <h3>🚗 Araç Sayım ve Trafik Analizi</h3>
+      <p>YOLO tabanlı araç tespiti, sayım ve trafik analizi projesi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat"/>
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat"/>
+      </p>
+      <a href="https://github.com/EmirhanFirat/Arac-Sayim-Ve-Trafik-Analiz-Sistemi-YOLO">
+        <b>Projeyi Görüntüle →</b>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🏋️ Spor Salonu Yönetim Sistemi</h3>
+      <p>C# ve ASP.NET ile geliştirilen web tabanlı yönetim sistemi.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat"/>
+        <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat"/>
+      </p>
+      <a href="https://github.com/EmirhanFirat/Spor-Salonu-Yonetim-Sistemi-Web-Proje">
+        <b>Projeyi Görüntüle →</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -380,7 +422,7 @@ Aşama 5  -> Backend + AI entegre, üretime yakın akıllı uygulamalar gelişti
 
 ## 🎯 Hedeflerim
 
-- Ciddi AI ve backend projeleri geliştirmek
+- Daha fazla AI ve backend projeleri geliştirmek
 - Finansal yapay zekâ alanında derinleşmek
 - LLM tabanlı sistemler üzerine güçlü projeler üretmek
 - Bilgisayarlı görü ve derin öğrenme alanlarında deneyim kazanmak
