@@ -8,6 +8,10 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EmirhanFirat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 <br><br>
 
