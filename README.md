@@ -12,8 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EmirhanFirat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<br><br>
+<br>
 
 **Currently Learning:** LLM Fundamentals • Machine Learning • Deep Learning • Backend Development  
 
