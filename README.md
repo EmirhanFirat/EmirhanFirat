@@ -121,7 +121,6 @@ Temiz Kod ve Yazılım Mühendisliği
 <p>
   <a href="https://github.com/EmirhanFirat/Kobi_kredi_skoru">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/Finans-Kredi%20Skorlama-0F172A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/README-Proje%20Sunumu-2563EB?style=for-the-badge"/>
@@ -146,7 +145,6 @@ KOBİ’ler için kredi skoru tahmini yapmaya odaklanan makine öğrenmesi proje
 <p>
   <a href="https://github.com/EmirhanFirat/Turkce-Finansal-Asistan-LoRA-ve-RAG-Karsilastirmasi---finansal-llm-asistani---">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/LLM-0F172A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LoRA-7C3AED?style=for-the-badge"/>
@@ -170,7 +168,6 @@ Türkçe finansal soru-cevap senaryosu için **LoRA fine-tuning** ve **RAG taban
 <p>
   <a href="https://github.com/EmirhanFirat/Ev-Tahmini--makine-renmesi">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
@@ -191,7 +188,6 @@ Yapılandırılmış veriler ile ev fiyat tahmini üzerine geliştirilen temel m
 <p>
   <a href="https://github.com/EmirhanFirat/Basketbol-top-ve-oyuncu-takip-sistemi">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Object%20Tracking-0F172A?style=for-the-badge"/>
@@ -212,7 +208,6 @@ Basketbol senaryosu için top ve oyuncu takibi yapan bilgisayarlı görü projes
 <p>
   <a href="https://github.com/EmirhanFirat/Arac-Sayim-Ve-Trafik-Analiz-Sistemi-YOLO">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
@@ -233,7 +228,6 @@ YOLO tabanlı nesne tespiti ile araç sayımı ve trafik analizi yapan bilgisaya
 <p>
   <a href="https://github.com/EmirhanFirat/Goruntu-Isleme---Baret-ve-yelek-takip-ve-sayma-islemi">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
@@ -274,7 +268,6 @@ C# ve ASP.NET ile geliştirilen web tabanlı spor salonu yönetim sistemi.
 <p>
   <a href="https://github.com/EmirhanFirat/Blynk-ve-Mqtt-ile-Ardunio-ate-takip-ve-s-nd-rme-sistemi">
     <img src="https://img.shields.io/badge/Repository-Projeyi%20Görüntüle-181717?style=for-the-badge&logo=github"/>
-     <b>Projeyi Görüntüle →</b>
   </a>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
